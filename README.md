@@ -1,6 +1,7 @@
-# 📊 Traffic Passage and Transaction SQL Project
+<img width="1024" height="1024" alt="Gemini_Generated_Image_tqkvrltqkvrltqkv" src="https://github.com/user-attachments/assets/09bd729a-afd5-4204-bc44-29486fb582c3" /># 📊 Traffic Passage and Transaction SQL Project
 
 This project simulates real-world vehicle passage and toll transaction data for SQL practice, analytics, and intelligent transport system modeling.
+<img width="1024" height="1024" alt="Gemini_Generated_Image_tqkvrltqkvrltqkv" src="https://github.com/user-attachments/assets/a8b5ca06-b8b4-49c7-8886-5f4b1f6bc4e6" />
 
 ## 📁 Contents
 
